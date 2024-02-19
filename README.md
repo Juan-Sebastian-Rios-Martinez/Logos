@@ -8,8 +8,6 @@
    
 &nbsp;
 
-> [!NOTE]
-> Logo design 2019 - TYPE OPEN SOURCE.
 
 
 <a href="#">
