@@ -20,7 +20,7 @@ created in illustrator
             src="https://github.com/Juan-Sebastian-Rios-Martinez/LOGOS/assets/47394043/52f11a1b-2963-4c0e-942b-c061a26febb2" />
     </a>  
 
-&nbsp;
+&nbsp ;
 
 
 
