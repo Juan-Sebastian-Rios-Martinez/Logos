@@ -1,5 +1,5 @@
 
-> [!O]
+[!NOTE]
 >Logo design 2019 - ENFOQUE.
 
 <div align="center">
