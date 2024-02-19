@@ -1,6 +1,6 @@
-&nbsp
 
-Logo design 2019 - ENFOQUE
+
+Logo design 2019 - ENFOQUE-
 <div align="center">
    <a href="#">
   <img width="80%"
