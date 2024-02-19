@@ -11,6 +11,7 @@
 
 &nbsp;
 
+![Grupo 757]()
 
 
 <a href="#">
@@ -36,7 +37,15 @@
   <img width="80%"
             src="https://github.com/Juan-Sebastian-Rios-Martinez/LOGOS/assets/47394043/52522314-c49b-4e13-bfe1-2f5ceb9eba08" />
     </a>  
+    
+&nbsp;
 
+
+
+<a href="#">
+  <img width="80%"
+            src="https://github.com/Juan-Sebastian-Rios-Martinez/LOGOS/assets/47394043/b85ae01e-9fc3-4659-b9a8-ae113840e5b0" />
+    </a>
    
 </div>
 
