@@ -9,10 +9,19 @@
 &nbsp;
 
 
-
 <a href="#">
   <img width="80%"
             src="https://github.com/Juan-Sebastian-Rios-Martinez/LOGOS/assets/47394043/52f11a1b-2963-4c0e-942b-c061a26febb2" />
+    </a>  
+
+&nbsp;
+
+
+
+
+<a href="#">
+  <img width="80%"
+            src="https://github.com/user-attachments/assets/1a7db78f-aa84-484a-9a1f-270e527c5df9" />
     </a>  
 
 &nbsp;
@@ -24,9 +33,6 @@
     </a>  
 
 &nbsp;
-
-
-
 
 
 
