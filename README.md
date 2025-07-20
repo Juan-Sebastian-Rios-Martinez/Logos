@@ -1,3 +1,4 @@
+
 &nbsp;
 
 <div align="center">
@@ -49,6 +50,14 @@
 <a href="#">
   <img width="80%"
             src="https://github.com/Juan-Sebastian-Rios-Martinez/LOGOS/assets/47394043/52522314-c49b-4e13-bfe1-2f5ceb9eba08" />
+    </a>  
+    
+&nbsp;
+
+
+<a href="#">
+  <img width="80%"
+            src="https://github.com/user-attachments/assets/8715b2fb-217d-45c3-b6e7-0c1403ef5e67" />
     </a>  
     
 &nbsp;
